@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "515311759808",
+    "project_id": "chegger-1c507",
+    "storage_bucket": "chegger-1c507.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515311759808:android:9b3d33714bee7fdca69825",
+        "android_client_info": {
+          "package_name": "com.example.afor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515311759808-b1443594220j8tlo5m1ile4sscb22qik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4UmrCZPl_8fppUQwvqo8Ibc6RPg6JI84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515311759808-b1443594220j8tlo5m1ile4sscb22qik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
